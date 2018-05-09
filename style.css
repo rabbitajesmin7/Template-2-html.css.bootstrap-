@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+@import url('https://fonts.googleapis.com/css?family=Atma');
+
+.header-area{
+    background:#013243;
+}
+.menu-area ul{
+    display: flex;
+}
+.menu-area ul li{
+    list-style: none;
+    padding: 10px;
+}
+.menu-area ul li a{
+    font-family: 'Indie Flower';
+    font-size:22px;
+    color: #fff;
+    
+}
+.menu-area ul li a:hover{
+    background: #BF55EC;
+    border-radius: 15px;
+    font-size:27px;
+    text-decoration: none;
+    
+}
+.body-area {
+   
+    background: #E4F1FE;
+}
+.body-area h2{
+    text-align: center;
+    font-family: 'Indie Flower';
+    
+}
+.about-area{
+    background: #A2DED0;
+}
+.about p{
+    font-family: 'Indie Flower';
+}
+.about-area h2{
+    text-align: center;
+    font-family: 'Indie Flower';
+}
+.icon{
+    width: 60px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+   
+    
+     
+}
+.icon i{
+   font-size:30px;
+    
+}
+
+.content h4{
+    text-align: center;
+    font-family: 'Atma', cursive;
+     
+   
+}
+.content p{
+   font-family: 'Atma', cursive; 
+    font-size: 20px;
+}
+.title h2{
+    text-align: center;
+    font-family: 'Indie Flower';
+   
+    
+}
+.movie-area{
+    background: #E4F1FE;
+    padding: 30px;
+   
+   
+    
+   
+}
+.movie{
+    background: #67809F;
+   
+}
+.movie img{
+    border-radius: 10px;
+}
+.list-area{
+   
+    height: 20%;
+    
+}
+.list i{
+    color:black;
+}
+.list-area h2{
+    text-align: center;
+    color: black;
+    font-family: 'Indie Flower';
+}
+.title h4{
+    text-align: center;
+    font-family: 'Indie Flower';
+    color: #fff;
+    
+}
+.list ul{
+   list-style: none;
+}
+.list ul li{
+   
+}
+.list ul li a{
+    text-decoration: none;
+    display: block;
+    color: black;
+    padding: 5px;
+   
+}
+.contact-area{
+    padding: 30px;
+    background: #013243;
+}
+.social-site i{
+    font-size: 30px;
+    padding: 10px;
+    color: aliceblue;
+    
+}
+
+.contact {
+    background: url(img/long_road_to_nowhere.jpg);
+}
+.contact h3{
+    color: aliceblue;
+}
+.contact input{
+    padding: 10px;
+    background: transparent;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: aliceblue;
+    margin-bottom: 10px;
+}
+.contact input:nth-child(3){
+    padding: 50px;
+    color: black;
+}
+.contact input[type=submit]{
+    border: 2px solid black;
+    color: black;
+    padding: 5px 20px;
+}
+.footer-area{
+   background: black;
+   padding: 8px;    
+}
+.container{
+    
+}
+.footer-area h3{
+    text-align: center;
+    color: #fff;
+}
+
